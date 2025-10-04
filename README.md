@@ -7,7 +7,7 @@ Currently working at **Infosys**, delivering data engineering and automation sol
 
 ### 🛠️ My Toolkit
 
-🐍 Python – Data automation & scripting 💾 SQL – Querying & analytics 💻 Shell – Scripting & DevOps  
+🐍 Python – Data automation & scripting 💾 SQL – Querying & analytics 💻 Shell – Scripting
 
 Snowflake – Cloud data warehouse BigQuery – Large-scale analytics Airflow – Workflow orchestration  
 Pandas – Data manipulation Flask – Web frameworks Git – Version control  
