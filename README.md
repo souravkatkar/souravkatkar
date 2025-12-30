@@ -1,6 +1,6 @@
 # Hi there, I'm Sourav 👋
 
-🚀 **Digital Specialist Engineer L1 | Big Data Engineer | Python & Data Automation Enthusiast**  
+🚀 **Digital Specialist Engineer L2 | Big Data Engineer | Python & Data Automation Enthusiast**  
 Currently working at **Infosys**, delivering data engineering and automation solutions for CVS Health.
 
 ---
