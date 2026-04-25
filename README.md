@@ -1,51 +1,47 @@
 # Hi there, I'm Sourav 👋
 
-🚀 **Digital Specialist Engineer L2 | Big Data Engineer | Python & Data Automation Enthusiast**  
-Currently working at **Infosys**, delivering data engineering and automation solutions for CVS Health.
+🚀 **Data Engineer | Digital Specialist L2 | Python Automation Enthusiast** Currently at **Infosys**, delivering data engineering solutions and automation for CVS Health. Focused on optimizing high-throughput pipelines and managing complex workflow orchestration.
 
 ---
 
 ### 🛠️ My Toolkit
 
-🐍 Python – Data automation & scripting 💾 SQL – Querying & analytics 💻 Shell – Scripting
+**Languages & Automation:** 🐍 Python (ETL & Scripting) • 💾 SQL (Advanced Querying) • 💻 Shell Scripting
 
-Snowflake – Cloud data warehouse BigQuery – Large-scale analytics Airflow – Workflow orchestration  
-Pandas – Data manipulation Flask – Web frameworks Git – Version control  
+**Data Platforms:** 🌬️ Airflow (Managing 200+ Production DAGs) • ❄️ Snowflake • 🔍 BigQuery 
+
+**Tools & Environment:** 🐼 Pandas • 🌶️ Flask • 🐙 Git • 🐧 Linux Basics
 
 ---
 
 ### 📌 Featured Projects
 
+- **📡 [Angel-Quant: Live Market Data Pipeline](https://github.com/souravkatkar/angel-quant)** A Python-based data ingestion tool hosted on a cloud instance. It automates fetching live market data via SmartAPI, converting raw API responses into structured CSV formats for financial analysis.
+  **Tech:** Python, API Integration, Cloud Deployment (OCI), Linux.
+  *🟢 Status: Deployed & Operational*
 
-- 🗄️ [**BQ DDL Standardizer**](https://github.com/souravkatkar/bq-ddl-standardizer)  
-  Standardizes BigQuery DDL from JSON/source schemas.  
-  **Tech:** Python, SQL, BigQuery
-  
-- 🚀 [**Swing-Trader**](https://github.com/souravkatkar/Swing-Trader)  
-  Flask-based stock screener with candlestick pattern detection.  
-  **Tech:** Python, Flask, Pandas  
+- **🗄️ [BQ DDL Standardizer](https://github.com/souravkatkar/bq-ddl-standardizer)** A utility to standardize BigQuery DDL from various source schemas, helping automate the often manual process of schema migration.  
+  **Tech:** Python, SQL, BigQuery API.
 
-- 🎮 [**Logo-Quiz**](https://github.com/souravkatkar/Logo-Quiz)  
-  Python GUI quiz game to identify logos.  
-  **Tech:** Python, Tkinter  
+- **📊 [Swing-Trader](https://github.com/souravkatkar/Swing-Trader)** A stock analysis engine featuring automated candlestick pattern detection and technical indicator visualization using the Flask framework.  
+  **Tech:** Python, Flask, Pandas.
 
-- 🏛️ [**TowerOfHanoi**](https://github.com/souravkatkar/TowerOfHanoi)  
-  Animated solution of the Tower of Hanoi problem (Java).  
-  **Tech:** Java  
+- **🤖 [Object-Detection-Rugby](https://github.com/souravkatkar/Object-Detection-Rugby-Ball)** Mobile-based computer vision implementation for real-time object detection.  
+  **Tech:** Java, OpenCV.
 
 ---
 
-### 🌱 Currently Exploring
-- Advanced data pipeline automation  
-- Market data analysis & trading strategies  
-- Optimization of SQL queries and large-scale ETL workflows  
+### 🌱 Current Focus
+- **Workflow Orchestration:** Deepening expertise in Airflow for large-scale production environments.
+- **FinTech Engineering:** Building robust handlers for real-time market data extraction.
+- **Python Automation:** Creating scripts to eliminate manual data entry and repetitive ETL tasks.
 
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/souravkatkar-7a8882192/)  
-- 🐦 [LeetCode](https://leetcode.com/u/souravkatkar/)  
-- 📧 Email: sourav.katkar@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sourav-katkar-7a8882192)
+- 🐦 [LeetCode](https://leetcode.com/u/souravkatkar/)
+- 📧 Email: sourav.katkar@gmail.com
 
 ---
 
